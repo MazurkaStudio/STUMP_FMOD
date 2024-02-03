@@ -16,9 +16,6 @@ Backup/
 StudioSettings.asset
 fmod_editor_log.txt
 
-# Ignore les fichiers de génération automatique de FMOD Studio
-Build/
-
 # Ignore les fichiers de configuration de l'IDE
 .idea/
 *.sln
@@ -27,3 +24,4 @@ Build/
 
 # Ignore les fichiers temporaires
 Temp/
+StumpProject/.user

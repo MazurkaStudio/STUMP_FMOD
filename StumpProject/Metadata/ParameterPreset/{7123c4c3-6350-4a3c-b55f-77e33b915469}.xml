@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7123c4c3-6350-4a3c-b55f-77e33b915469}">
+		<property name="name">
+			<value>PayerRelSpeed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{90e0aee7-fabe-4f5c-8b99-00c7e229658c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f89daca2-ea2f-46fe-87fe-574ffd819f30}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f89daca2-ea2f-46fe-87fe-574ffd819f30}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
