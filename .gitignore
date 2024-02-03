@@ -1,5 +1,4 @@
 # Ignore les fichiers générés par FMOD Studio
-*.bank
 *.bank.meta
 *.strings.bank
 *.strings.bank.meta
