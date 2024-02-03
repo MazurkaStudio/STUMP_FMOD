@@ -1,0 +1,29 @@
+# Ignore les fichiers générés par FMOD Studio
+*.bank
+*.bank.meta
+*.strings.bank
+*.strings.bank.meta
+*.events
+*.events.meta
+*.fev
+*.fev.meta
+*.cache
+
+# Ignore le dossier de sauvegarde de FMOD Studio
+Backup/
+
+# Ignore les fichiers de configuration locaux de FMOD Studio
+StudioSettings.asset
+fmod_editor_log.txt
+
+# Ignore les fichiers de génération automatique de FMOD Studio
+Build/
+
+# Ignore les fichiers de configuration de l'IDE
+.idea/
+*.sln
+*.csproj
+*.userprefs
+
+# Ignore les fichiers temporaires
+Temp/
