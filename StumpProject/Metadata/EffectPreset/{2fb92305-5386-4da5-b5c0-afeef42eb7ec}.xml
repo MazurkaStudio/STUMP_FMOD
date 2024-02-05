@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EffectPreset" id="{2fb92305-5386-4da5-b5c0-afeef42eb7ec}">
+		<property name="name">
+			<value>DefaultSpatialization</value>
+		</property>
+		<relationship name="folder">
+			<destination>{38b12597-4483-47de-b395-1e5d223376a5}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{b3ae5ae2-dfd7-41c0-bc7f-3e81625c4702}</destination>
+		</relationship>
+	</object>
+	<object class="ObjectSpatialiserEffect" id="{b3ae5ae2-dfd7-41c0-bc7f-3e81625c4702}">
+		<property name="minimumDistance">
+			<value>2</value>
+		</property>
+		<property name="maximumDistance">
+			<value>35</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+	</object>
+</objects>
