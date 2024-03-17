@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{da41ec1c-1243-405e-9df6-0ee1e13831d2}">
+		<property name="assetPath">
+			<value>Player/MeleeAttack/MeleeAttackWhooshSmall_0.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36370833333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6d29da0b-6ce7-4ee0-b058-dff0c5140588}</destination>
+		</relationship>
+	</object>
+</objects>
