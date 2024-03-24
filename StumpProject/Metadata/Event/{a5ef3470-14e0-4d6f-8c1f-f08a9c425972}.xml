@@ -5,7 +5,7 @@
 			<value>BoomerangHit</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{896b39df-b082-4d78-87f2-72376523856f}</destination>
@@ -148,7 +148,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="preset">
-			<destination>{2fb92305-5386-4da5-b5c0-afeef42eb7ec}</destination>
+			<destination>{fb861b10-4ea0-49b9-b11e-6b3886638f4e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{31dcd6e3-ff2e-4159-a37b-9b2988cf2c0d}" />

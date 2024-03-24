@@ -5,7 +5,7 @@
 			<value>MeleeAttack3</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{896b39df-b082-4d78-87f2-72376523856f}</destination>
@@ -168,6 +168,7 @@
 	<object class="MixerBusEffectChain" id="{a524a125-0175-4bcc-95f2-ae751d87744c}">
 		<relationship name="effects">
 			<destination>{1c562091-1521-4058-bca0-bbd189755766}</destination>
+			<destination>{940f09db-9af9-4be8-9257-49034436b5e5}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f710223d-d0fb-41cc-9462-b91cd7be00a8}" />
@@ -250,6 +251,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{26a267c7-a2ee-4081-90e2-d93b034e7aa7}" />
 	<object class="MixerBusFader" id="{1c562091-1521-4058-bca0-bbd189755766}" />
+	<object class="ProxyEffect" id="{940f09db-9af9-4be8-9257-49034436b5e5}">
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="preset">
+			<destination>{fb861b10-4ea0-49b9-b11e-6b3886638f4e}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{072ded37-7a4f-42a1-9e3f-f73e32807dff}" />
 	<object class="MixerBusFader" id="{d6c5f89b-2aa2-4b91-a147-0382a9f7ed10}" />
 </objects>

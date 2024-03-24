@@ -5,7 +5,7 @@
 			<value>Footsteps</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{896b39df-b082-4d78-87f2-72376523856f}</destination>
@@ -184,6 +184,7 @@
 	<object class="MixerBusEffectChain" id="{5779d224-082c-4bc1-9c0f-c180cc10d913}">
 		<relationship name="effects">
 			<destination>{8bc6c32c-87b4-424d-aa69-870197f3359e}</destination>
+			<destination>{4d4d7f5c-0127-46f8-8f3f-8298ba13e2bf}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{66656960-6288-49c8-b5ee-b9d0ff520fd5}" />
@@ -303,6 +304,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{48d73821-2e49-4c3a-911c-12b1cefd2e26}" />
 	<object class="MixerBusFader" id="{8bc6c32c-87b4-424d-aa69-870197f3359e}" />
+	<object class="ProxyEffect" id="{4d4d7f5c-0127-46f8-8f3f-8298ba13e2bf}">
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="preset">
+			<destination>{fb861b10-4ea0-49b9-b11e-6b3886638f4e}</destination>
+		</relationship>
+	</object>
 	<object class="AutomationCurve" id="{e935b85e-b3ff-498d-906d-730340f56efc}">
 		<relationship name="parameter">
 			<destination>{f89daca2-ea2f-46fe-87fe-574ffd819f30}</destination>

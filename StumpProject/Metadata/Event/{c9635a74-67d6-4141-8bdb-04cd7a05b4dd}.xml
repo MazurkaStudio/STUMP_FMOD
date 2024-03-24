@@ -5,7 +5,7 @@
 			<value>BloodSplash</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{38201be8-3e7a-465a-8b5f-1748302377cb}</destination>
@@ -181,6 +181,7 @@
 	<object class="MixerBusEffectChain" id="{c30be60f-0b1b-4442-8df4-b18fa936965a}">
 		<relationship name="effects">
 			<destination>{07e3a0a5-5468-4375-a6da-5b6b295afcb8}</destination>
+			<destination>{499ff768-89c1-451a-87aa-42d4dc775cad}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{09b050e4-f440-47c7-ba5c-370da3597a4c}" />
@@ -230,6 +231,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{f3ee6b58-384b-4f0b-9a39-c3b0b092f130}" />
 	<object class="MixerBusFader" id="{07e3a0a5-5468-4375-a6da-5b6b295afcb8}" />
+	<object class="ProxyEffect" id="{499ff768-89c1-451a-87aa-42d4dc775cad}">
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="preset">
+			<destination>{fb861b10-4ea0-49b9-b11e-6b3886638f4e}</destination>
+		</relationship>
+	</object>
 	<object class="AutomationPoint" id="{1cc80563-ad66-43d3-bc1d-87aacba9d107}">
 		<property name="position">
 			<value>0.38</value>

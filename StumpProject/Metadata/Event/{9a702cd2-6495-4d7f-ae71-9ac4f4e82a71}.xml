@@ -5,7 +5,7 @@
 			<value>Break</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{0681c60d-64df-47ad-99f6-18d36a314c40}</destination>
@@ -164,7 +164,7 @@
 			<value>0</value>
 		</property>
 		<relationship name="preset">
-			<destination>{2fb92305-5386-4da5-b5c0-afeef42eb7ec}</destination>
+			<destination>{fb861b10-4ea0-49b9-b11e-6b3886638f4e}</destination>
 		</relationship>
 	</object>
 	<object class="AutomationPoint" id="{c64f4c95-dfaa-4952-9f6c-17d67eec6c18}">
