@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{99349e8e-2d80-49ad-84f1-91dc1e9f36c2}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>Footsteps</value>
 		</property>
@@ -57,7 +60,7 @@
 			<destination>{c33500f8-1e09-4586-bef4-147bbef9fce1}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{97bdab7b-1106-4f91-ba66-22054aec7ab9}</destination>
+			<destination>{99e28270-9b2c-4662-8b7f-5f6259c28509}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{7a13081c-126e-4817-8b3d-8999e6d7443f}" />

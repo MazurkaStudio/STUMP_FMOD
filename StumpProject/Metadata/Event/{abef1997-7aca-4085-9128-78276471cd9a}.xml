@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{abef1997-7aca-4085-9128-78276471cd9a}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>Throw</value>
 		</property>
@@ -54,7 +57,7 @@
 			<destination>{d21f5a43-744b-4c10-97c2-0e665eda8589}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{97bdab7b-1106-4f91-ba66-22054aec7ab9}</destination>
+			<destination>{99e28270-9b2c-4662-8b7f-5f6259c28509}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{8e756c22-b2f5-4c1d-80f0-267f7f7e17de}" />

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{b435e802-a780-4422-9b80-bf9884f47ae8}">
+		<property name="color">
+			<value>Yellow</value>
+		</property>
 		<property name="name">
 			<value>PlaceHolderMusic</value>
 		</property>
@@ -53,7 +56,7 @@
 			<destination>{58aaa6f1-c8e7-41d4-b3f0-b18a3c5c2fd8}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{5954a0a0-1f74-4bfd-a13c-c1fa305808ae}</destination>
+			<destination>{f500ff8d-02e0-48ec-91da-408ef7c8f02b}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{098b1bee-cc6d-4a55-a4d8-c5141c7d80ee}" />

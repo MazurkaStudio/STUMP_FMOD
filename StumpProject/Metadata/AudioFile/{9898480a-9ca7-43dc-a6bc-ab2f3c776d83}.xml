@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{1e21d433-c0fb-4014-85ce-6d2812ca4715}">
+	<object class="AudioFile" id="{9898480a-9ca7-43dc-a6bc-ab2f3c776d83}">
 		<property name="assetPath">
-			<value>FootstepSpider/Insect_Footstep_0.wav</value>
+			<value>Player/Voices/honhonG.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.125</value>
+			<value>0.62670833333333331</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{6d29da0b-6ce7-4ee0-b058-dff0c5140588}</destination>

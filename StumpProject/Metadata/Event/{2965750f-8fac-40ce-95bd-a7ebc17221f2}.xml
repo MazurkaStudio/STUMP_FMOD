@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{2965750f-8fac-40ce-95bd-a7ebc17221f2}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>MeleeAttack3</value>
 		</property>
@@ -54,7 +57,7 @@
 			<destination>{934ebd3f-9e6f-474c-9e24-b7ef7d9ce8a7}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{97bdab7b-1106-4f91-ba66-22054aec7ab9}</destination>
+			<destination>{99e28270-9b2c-4662-8b7f-5f6259c28509}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{04f9ca79-1d5f-41b3-a0b0-fdd49dafac90}" />

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{1e680a2b-0363-46de-9999-f4fdd72c2f5d}">
+	<object class="AudioFile" id="{9c87d599-affb-4968-a783-c7d661eb833e}">
 		<property name="assetPath">
-			<value>FootstepSpider/Insect_Footstep_2.wav</value>
+			<value>Player/Voices/heHo3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.125</value>
+			<value>0.56517006802721093</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{6d29da0b-6ce7-4ee0-b058-dff0c5140588}</destination>

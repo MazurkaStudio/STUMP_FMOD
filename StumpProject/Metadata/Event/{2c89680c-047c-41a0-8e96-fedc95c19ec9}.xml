@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{2c89680c-047c-41a0-8e96-fedc95c19ec9}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>Dash</value>
 		</property>
@@ -54,7 +57,7 @@
 			<destination>{f53a9d50-e913-463e-ae7f-398d986b125b}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{97bdab7b-1106-4f91-ba66-22054aec7ab9}</destination>
+			<destination>{99e28270-9b2c-4662-8b7f-5f6259c28509}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{6d5b1569-3609-47b9-a13b-78e19b0785be}" />
